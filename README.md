@@ -16,7 +16,7 @@ Eu sou a Clara, uma entusiasta da tecnologia que recentemente descobriu o emocio
 ___________________________
 ### Minhas Habilidades
 
- 👩🏻‍💼 **Hard Skills**
+ 👩🏻‍💼🛠 **Hard Skills**
 
 - Domínio com softwares de gestão e finanças, CRM's e ERP’s.
 - Proficiência em análise de dados e criação de relatórios utilizando o Power BI, Looker e Tableau.
